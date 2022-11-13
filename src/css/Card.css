@@ -1,0 +1,13 @@
+.card__container {
+    max-width: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.card_image__container {
+    width: 590px;
+    height: 590px;
+
+}
